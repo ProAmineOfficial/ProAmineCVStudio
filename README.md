@@ -2,6 +2,8 @@
 
 A free, open-source CV builder by **Pro_Amine**. Shape your story in a frosted-glass workspace, see the document update as you type, and download it without an account, payment, or watermark.
 
+![The glass CV editor with a live Signature document preview](docs/preview.jpg)
+
 ## What you can do
 
 - Edit personal details, a professional summary, experience, education, skills, languages, interests, projects, and achievements.
